@@ -1,7 +1,7 @@
 
 # S Sai Akshaya Pillai
 
-📞 425-667-1060 | 🌆 Seattle, WA | 📧 sakshaya@uw.edu | 💼 [LinkedIn](https://linkedin.com/in/saiakshaya-s) | 🌐 [Tableau Portfolio](https://public.tableau.com/app/profile/sai.akshaya.s/vizzes)
+🌆 Seattle, WA | 📧 sakshaya@uw.edu | 💼 [LinkedIn](https://linkedin.com/in/saiakshaya-s) | 🌐 [Tableau Portfolio](https://public.tableau.com/app/profile/sai.akshaya.s/vizzes)
 
 ## EDUCATION
 - **University of Washington**
