@@ -1,5 +1,6 @@
 
 # S Sai Akshaya Pillai
+Software Engineering | Machine Learning | Data Science
 
 🌆 Seattle, WA | 📧 sakshaya@uw.edu | 💼 [LinkedIn](https://linkedin.com/in/saiakshaya-s) | 🌐 [Tableau Portfolio](https://public.tableau.com/app/profile/sai.akshaya.s/vizzes)
 
