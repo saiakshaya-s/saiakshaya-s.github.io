@@ -4,7 +4,7 @@ Software Engineering | Machine Learning | Data Science
 
 
 
-🌆 Seattle, WA | 📧 sakshaya@uw.edu | 💼 [LinkedIn](https://linkedin.com/in/saiakshaya-s) | 💻 [Github][(https://github.com/saiakshaya-s/)] |🌐 [Tableau Portfolio](https://public.tableau.com/app/profile/sai.akshaya.s/vizzes)
+🌆 Seattle, WA | 📧 sakshaya@uw.edu | 💼 [LinkedIn](https://linkedin.com/in/saiakshaya-s) | 💻 [Github](https://github.com/saiakshaya-s/) | 🌐 [Tableau Portfolio](https://public.tableau.com/app/profile/sai.akshaya.s/vizzes)
 
 ## EDUCATION
 - **University of Washington**
